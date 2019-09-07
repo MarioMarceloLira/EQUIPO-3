@@ -1,0 +1,54 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1567818917123">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="comunicaci_n.css" crc="431668550" ref="comunicación"/>
+    <file name="fabricaci_n.css" crc="3807541786" ref="fabricación"/>
+    <file name="index.css" crc="4203828072" ref="index"/>
+    <file name="implementaci_n.css" crc="4108168648" ref="implementación"/>
+    <file name="formulaci_n.css" crc="4206985164" ref="formulación"/>
+    <file name="aspectos-generales.css" crc="349678129" ref="aspectos-generales"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación"/>
+    <file name="museutils.js" crc="340535759" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación"/>
+    <file name="whatinput.js" crc="86476730" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación"/>
+    <file name="museconfig.js" crc="310584261" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación"/>
+    <file name="require.js" crc="7928878" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación"/>
+  </folder>
+  <folder name="images">
+    <file name="pucp.png" crc="491765213" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_oficial upch.png" crc="4092033974" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u398-5.png" crc="4239960451" ref="index"/>
+    <file name="u587-4.png" crc="48418829" ref="index"/>
+    <file name="whatsapp image 2019-09-04 at 215358.jpg" crc="3980244343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1663-4.png" crc="105084450" ref="aspectos-generales"/>
+    <file name="u1666-4.png" crc="3854187252" ref="aspectos-generales"/>
+    <file name="u1669-4.png" crc="520182757" ref="formulación"/>
+    <file name="u1672-4.png" crc="291768598" ref="formulación"/>
+    <file name="u1675-4.png" crc="480444422" ref="formulación"/>
+    <file name="u1678-4.png" crc="258980593" ref="fabricación"/>
+    <file name="u1681-4.png" crc="3813185322" ref="fabricación"/>
+    <file name="u1684-4.png" crc="351701906" ref="fabricación"/>
+    <file name="u1687-4.png" crc="3850414921" ref="fabricación"/>
+    <file name="u1693-4.png" crc="166011319" ref="implementación"/>
+    <file name="u1696-4.png" crc="3844685428" ref="implementación"/>
+    <file name="u1699-4.png" crc="4229161101" ref="implementación"/>
+    <file name="u1702-4.png" crc="3910500562" ref="implementación"/>
+  </folder>
+  <file name="index.html" crc="111906389" seo="true" mt="1567818908106" redirect="true"/>
+  <file name="aspectos-generales.html" crc="4204859302" seo="true" mt="1567817929257" redirect="true"/>
+  <file name="formulación.html" crc="188802503" seo="true" mt="1567817908773" redirect="true"/>
+  <file name="fabricación.html" crc="524540890" seo="true" mt="1567818198993" redirect="true"/>
+  <file name="implementación.html" crc="4198298290" seo="true" mt="1567818458085" redirect="true"/>
+  <file name="comunicación.html" crc="4009451589" seo="true" mt="1567817112442" redirect="true"/>
+</manifest>

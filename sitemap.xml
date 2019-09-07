@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://taller.com/index.html</loc>
+    <lastmod>2019-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://taller.com/images/whatsapp%20image%202019-09-04%20at%20215358.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://taller.com/aspectos-generales.html</loc>
+    <lastmod>2019-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/formulaci%C3%B3n.html</loc>
+    <lastmod>2019-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/fabricaci%C3%B3n.html</loc>
+    <lastmod>2019-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/implementaci%C3%B3n.html</loc>
+    <lastmod>2019-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/comunicaci%C3%B3n.html</loc>
+    <lastmod>2019-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
