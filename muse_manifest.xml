@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1568002627839">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1568067126775">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="comunicaci_n.css" crc="431668550" ref="comunicación"/>
     <file name="fabricaci_n.css" crc="4000105668" ref="fabricación"/>
-    <file name="index.css" crc="339336576" ref="index"/>
+    <file name="index.css" crc="511927947" ref="index"/>
     <file name="implementaci_n.css" crc="3822165703" ref="implementación"/>
-    <file name="formulaci_n.css" crc="326264970" ref="formulación"/>
+    <file name="formulaci_n.css" crc="3819491898" ref="formulación"/>
     <file name="aspectos-generales.css" crc="233082049" ref="aspectos-generales"/>
     <file name="semana-7.css" crc="4193191577" ref="semana-7"/>
     <file name="semana-9.css" crc="4193191577" ref="semana-9"/>
@@ -41,9 +41,9 @@
     </file>
     <file name="u1663-4.png" crc="3774609513" ref="aspectos-generales"/>
     <file name="u1666-4.png" crc="3814465459" ref="aspectos-generales"/>
-    <file name="u1669-4.png" crc="520182757" ref="formulación"/>
-    <file name="u1672-4.png" crc="291768598" ref="formulación"/>
-    <file name="u1675-4.png" crc="480444422" ref="formulación"/>
+    <file name="u1669-4.png" crc="275094227" ref="formulación"/>
+    <file name="u1672-4.png" crc="4079160014" ref="formulación"/>
+    <file name="u1675-4.png" crc="4028844714" ref="formulación"/>
     <file name="u1678-4.png" crc="258980593" ref="fabricación"/>
     <file name="u1681-4.png" crc="3813185322" ref="fabricación"/>
     <file name="u1684-4.png" crc="351701906" ref="fabricación"/>
@@ -54,19 +54,48 @@
     <file name="u1702-4.png" crc="3910500562" ref="implementación"/>
     <file name="u398-6.png" crc="132265453" ref="index"/>
     <file name="u1988-6.png" crc="152875818" ref="index"/>
-    <file name="edificio-dr-fleck.jpg" crc="4015397767" seo="true" ref="index">
+    <file name="edificio-dr-fleck.jpg" crc="4015397767" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="clinica-anglo-u1725-fr.png" crc="4294622064" ref="index"/>
     <file name="u1564-9.png" crc="3998018681" ref="aspectos-generales"/>
     <file name="u1561-20.png" crc="145891974" ref="aspectos-generales"/>
     <file name="u1992-6.png" crc="4246693732" ref="aspectos-generales"/>
     <file name="u2004-6.png" crc="40156184" ref="aspectos-generales"/>
     <file name="u2007-6.png" crc="359927692" ref="aspectos-generales"/>
+    <file name="img_20190909_151828.jpg" crc="3807522934" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190909_124513.jpg" crc="4213692143" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2138-28.png" crc="71136882" ref="index"/>
+    <file name="img_20190909_151726.jpg" crc="385097085" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2141-28.png" crc="4157110525" ref="index"/>
+    <file name="img_20190909_160354.jpg" crc="452963626" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2144-29.png" crc="3786231548" ref="index"/>
+    <file name="img_20190909_124647.jpg" crc="4151025968" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2147-28.png" crc="4106128702" ref="index"/>
+    <file name="img_20190909_124610.jpg" crc="4280063999" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2150-28.png" crc="327264617" ref="index"/>
+    <file name="u1579-7.png" crc="4060460453" ref="formulación"/>
+    <file name="u2034-6.png" crc="32476818" ref="formulación"/>
+    <file name="u1588-7.png" crc="4175901023" ref="formulación"/>
+    <file name="u2040-6.png" crc="472549929" ref="formulación"/>
+    <file name="u1594-7.png" crc="259770237" ref="formulación"/>
+    <file name="u2046-6.png" crc="4256805552" ref="formulación"/>
+    <file name="clinica-anglo-u1725-fr.png" crc="4294622064" ref="index"/>
   </folder>
-  <file name="index.html" crc="41182838" seo="true" mt="1567962905470" redirect="true"/>
+  <file name="index.html" crc="4073652654" seo="true" mt="1568067122567" redirect="true"/>
   <file name="aspectos-generales.html" crc="4189651735" seo="true" mt="1568002607022" redirect="true"/>
-  <file name="formulación.html" crc="54801820" seo="true" mt="1567953452905" redirect="true"/>
+  <file name="formulación.html" crc="267029075" seo="true" mt="1568046212605" redirect="true"/>
   <file name="fabricación.html" crc="3848864195" seo="true" mt="1567953472463" redirect="true"/>
   <file name="implementación.html" crc="3806862169" seo="true" mt="1567953500327" redirect="true"/>
   <file name="comunicación.html" crc="4009451589" seo="true" mt="1567817112442" redirect="true"/>
