@@ -17,37 +17,37 @@
   </url>
   <url>
     <loc>http://taller.com/formulaci%C3%B3n.html</loc>
-    <lastmod>2019-09-09</lastmod>
+    <lastmod>2019-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/fabricaci%C3%B3n.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/implementaci%C3%B3n.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/comunicaci%C3%B3n.html</loc>
-    <lastmod>2019-09-06</lastmod>
+    <lastmod>2019-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-2.html</loc>
-    <lastmod>2019-09-10</lastmod>
+    <lastmod>2019-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-3.html</loc>
-    <lastmod>2019-09-10</lastmod>
+    <lastmod>2019-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -114,6 +114,18 @@
   <url>
     <loc>http://taller.com/semana-14.html</loc>
     <lastmod>2019-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/semana-15.html</loc>
+    <lastmod>2019-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/semana-16.html</loc>
+    <lastmod>2019-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
