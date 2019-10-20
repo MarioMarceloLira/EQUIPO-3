@@ -1,38 +1,40 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1569771563198">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1571534404569">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="comunicaci_n.css" crc="3854024564" ref="comunicación"/>
-    <file name="fabricaci_n.css" crc="534414767" ref="fabricación"/>
-    <file name="index.css" crc="228357122" ref="index"/>
-    <file name="implementaci_n.css" crc="138360903" ref="implementación"/>
-    <file name="formulaci_n.css" crc="54962368" ref="formulación"/>
-    <file name="aspectos-generales.css" crc="310685279" ref="aspectos-generales"/>
-    <file name="semana-7.css" crc="4193191577" ref="semana-7"/>
-    <file name="semana-9.css" crc="4193191577" ref="semana-9"/>
-    <file name="semana-5.css" crc="4193191577" ref="semana-5"/>
-    <file name="semana-6.css" crc="4193191577" ref="semana-6"/>
-    <file name="semana-3.css" crc="4261094051" ref="semana-3"/>
-    <file name="semana-11.css" crc="4193191577" ref="semana-11"/>
-    <file name="semana-2.css" crc="75595104" ref="semana-2"/>
-    <file name="semana-8.css" crc="4193191577" ref="semana-8"/>
-    <file name="semana-12.css" crc="4193191577" ref="semana-12"/>
-    <file name="semana-13.css" crc="4193191577" ref="semana-13"/>
-    <file name="semana-14.css" crc="4193191577" ref="semana-14"/>
-    <file name="semana-10.css" crc="4193191577" ref="semana-10"/>
-    <file name="semana-4.css" crc="4193191577" ref="semana-4"/>
-    <file name="semana-16.css" crc="4193191577" ref="semana-16"/>
-    <file name="semana-15.css" crc="4193191577" ref="semana-15"/>
+    <file name="semana-10.css" crc="3785854247" ref="semana-10"/>
+    <file name="semana-5.css" crc="3903025194" ref="semana-5"/>
+    <file name="semana-15.css" crc="273207296" ref="semana-15"/>
+    <file name="comunicaci_n.css" crc="4133063547" ref="comunicación"/>
+    <file name="semana-9.css" crc="41687410" ref="semana-9"/>
+    <file name="semana-14.css" crc="425252511" ref="semana-14"/>
+    <file name="implementaci_n.css" crc="4021936813" ref="implementación"/>
+    <file name="aspectos-generales.css" crc="3936646244" ref="aspectos-generales"/>
+    <file name="semana-8.css" crc="300290481" ref="semana-8"/>
+    <file name="semana-16.css" crc="484301591" ref="semana-16"/>
+    <file name="fabricaci_n.css" crc="477693730" ref="fabricación"/>
+    <file name="semana-7.css" crc="216460263" ref="semana-7"/>
+    <file name="semana-3.css" crc="152666095" ref="semana-3"/>
+    <file name="semana-13.css" crc="3914356898" ref="semana-13"/>
+    <file name="semana-6.css" crc="309066883" ref="semana-6"/>
+    <file name="semana-12.css" crc="3027583" ref="semana-12"/>
+    <file name="formulaci_n.css" crc="4004773640" ref="formulación"/>
+    <file name="index.css" crc="27691626" ref="index"/>
+    <file name="semana-11.css" crc="4211579084" ref="semana-11"/>
+    <file name="semana-2.css" crc="513632026" ref="semana-2"/>
+    <file name="semana-4.css" crc="4033861948" ref="semana-4"/>
+    <file name="semana-1.css" crc="510825706" ref="semana-1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-2:semana-3:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16"/>
-    <file name="museutils.js" crc="340535759" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-2:semana-3:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16"/>
-    <file name="whatinput.js" crc="86476730" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-2:semana-3:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16"/>
-    <file name="museconfig.js" crc="310584261" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-2:semana-3:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-2:semana-3:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:aspectos-generales:semana-2"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-2:semana-3:semana-15:semana-16"/>
-    <file name="require.js" crc="7928878" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-2:semana-3:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
+    <file name="museutils.js" crc="3939489907" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
+    <file name="museconfig.js" crc="128606099" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:aspectos-generales:formulación:semana-1"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
+    <file name="require.js" crc="4177726516" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="semana-4:semana-6:semana-2:semana-3:semana-1"/>
   </folder>
   <folder name="images">
     <file name="pucp.png" crc="491765213" ref="index">
@@ -41,155 +43,148 @@
     <file name="logo_oficial upch.png" crc="4092033974" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1663-4.png" crc="3774609513" ref="aspectos-generales"/>
-    <file name="u1666-4.png" crc="3814465459" ref="aspectos-generales"/>
-    <file name="u1669-4.png" crc="275094227" ref="formulación"/>
-    <file name="u1672-4.png" crc="4079160014" ref="formulación"/>
-    <file name="u1675-4.png" crc="4028844714" ref="formulación"/>
-    <file name="u1678-4.png" crc="131985742" ref="fabricación"/>
-    <file name="u1681-4.png" crc="3934341962" ref="fabricación"/>
-    <file name="u1684-4.png" crc="4238769997" ref="fabricación"/>
-    <file name="u1687-4.png" crc="4013292825" ref="fabricación"/>
-    <file name="u1693-4.png" crc="4088272612" ref="implementación"/>
-    <file name="u1696-4.png" crc="104977472" ref="implementación"/>
-    <file name="u1699-4.png" crc="244575800" ref="implementación"/>
-    <file name="u1702-4.png" crc="3805756079" ref="implementación"/>
     <file name="u398-6.png" crc="132265453" ref="index"/>
-    <file name="u1988-6.png" crc="152875818" ref="index"/>
-    <file name="edificio-dr-fleck.jpg" crc="4015397767" ref="index" seo="true">
+    <file name="edificio-dr-fleck.jpg" crc="4015397767" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1564-9.png" crc="3998018681" ref="aspectos-generales"/>
-    <file name="u1561-20.png" crc="145891974" ref="aspectos-generales"/>
-    <file name="u1992-6.png" crc="4246693732" ref="aspectos-generales"/>
-    <file name="u2004-6.png" crc="40156184" ref="aspectos-generales"/>
-    <file name="u2007-6.png" crc="359927692" ref="aspectos-generales"/>
-    <file name="img_20190909_151828.jpg" crc="3807522934" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_20190909_124513.jpg" crc="4213692143" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_20190909_151726.jpg" crc="385097085" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_20190909_160354.jpg" crc="452963626" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_20190909_124647.jpg" crc="4151025968" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u2147-28.png" crc="3760521681" ref="index"/>
-    <file name="img_20190909_124610.jpg" crc="4280063999" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u1579-7.png" crc="4060460453" ref="formulación"/>
-    <file name="u2034-6.png" crc="32476818" ref="formulación"/>
-    <file name="u1588-7.png" crc="4175901023" ref="formulación"/>
-    <file name="u2040-6.png" crc="472549929" ref="formulación"/>
-    <file name="u1594-7.png" crc="259770237" ref="formulación"/>
-    <file name="u2046-6.png" crc="4256805552" ref="formulación"/>
     <file name="clinica-anglo-u1725-fr.png" crc="4294622064" ref="index"/>
-    <file name="u2138-32.png" crc="4084213888" ref="index"/>
-    <file name="u2141-32.png" crc="4030669669" ref="index"/>
-    <file name="u2144-32.png" crc="418505045" ref="index"/>
-    <file name="u2150-32.png" crc="112816202" ref="index"/>
-    <file name="captura.jpg" crc="3782600761" ref="aspectos-generales:semana-2">
+    <file name="u1988-6.png" crc="152875818" ref="index"/>
+    <file name="img_20190909_151828.jpg" crc="3807522934" ref="semana-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="img_20190909_124513.jpg" crc="4213692143" ref="semana-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="img_20190909_151726.jpg" crc="385097085" ref="semana-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="img_20190909_160354.jpg" crc="452963626" ref="semana-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="img_20190909_124647.jpg" crc="4151025968" ref="semana-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="img_20190909_124610.jpg" crc="4280063999" ref="semana-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="equipo.jpg" crc="3999434683" ref="aspectos-generales">
       <caption webpage="aspectos-generales" alt=""/>
+    </file>
+    <file name="captura 2-u7548-fr.jpg" crc="3933824341" ref="aspectos-generales"/>
+    <file name="captura 13-u7545-fr.jpg" crc="3971675824" ref="aspectos-generales"/>
+    <file name="captura 14-u7530-fr.jpg" crc="3851361656" ref="formulación"/>
+    <file name="captura 22-u7536-fr.jpg" crc="264354576" ref="formulación"/>
+    <file name="captura 26-u7533-fr.jpg" crc="49205283" ref="formulación"/>
+    <file name="captura 14.jpg" crc="3822933798" ref="semana-4">
+      <caption webpage="semana-4" alt=""/>
+    </file>
+    <file name="captura 15.jpg" crc="3954068945" ref="semana-4">
+      <caption webpage="semana-4" alt=""/>
+    </file>
+    <file name="captura 16.jpg" crc="4052971726" ref="semana-4">
+      <caption webpage="semana-4" alt=""/>
+    </file>
+    <file name="captura 25.jpg" crc="3870070519" ref="semana-4">
+      <caption webpage="semana-4" alt=""/>
+    </file>
+    <file name="captura 17.jpg" crc="33781194" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="captura 18.jpg" crc="34694469" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="captura 19.jpg" crc="4216660663" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="captura 20.jpg" crc="4111498603" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="captura 21.jpg" crc="3926229377" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="captura 22.jpg" crc="412979288" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="captura 23.jpg" crc="407317023" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="captura 24.jpg" crc="499422182" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="captura 26.jpg" crc="489336975" ref="semana-6">
+      <caption webpage="semana-6" alt=""/>
+    </file>
+    <file name="captura 1.jpg" crc="4071013069" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura17-u2010-fr.jpg" crc="102826886" ref="aspectos-generales"/>
-    <file name="u2022-6.png" crc="4244098176" ref="semana-2"/>
-    <file name="captura1.jpg" crc="3758715389" ref="semana-2">
+    <file name="captura 2.jpg" crc="4207063285" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura3.jpg" crc="284216617" ref="semana-2">
+    <file name="captura 3.jpg" crc="3877952702" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura4.jpg" crc="331353499" ref="semana-2">
+    <file name="captura 5.jpg" crc="3814851068" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura5.jpg" crc="4163211684" ref="semana-2">
+    <file name="captura 6.jpg" crc="3880083904" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura6.jpg" crc="165551451" ref="semana-2">
+    <file name="captura 61.jpg" crc="261921706" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura7.jpg" crc="3827610357" ref="semana-2">
+    <file name="captura 7.jpg" crc="203439400" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura8.jpg" crc="230652307" ref="semana-2">
+    <file name="captura 8.jpg" crc="49957215" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura9.jpg" crc="70525620" ref="semana-2">
+    <file name="captura 9.jpg" crc="4108937597" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura10.jpg" crc="4266919594" ref="semana-2">
+    <file name="captura 10.jpg" crc="3928819590" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura11.jpg" crc="93556051" ref="semana-2">
-      <caption webpage="semana-2" alt=""/>
-    </file>
-    <file name="captura12.jpg" crc="4294703410" ref="semana-2">
-      <caption webpage="semana-2" alt=""/>
-    </file>
-    <file name="captura13.jpg" crc="52222236" ref="semana-2">
-      <caption webpage="semana-2" alt=""/>
-    </file>
-    <file name="captura14.jpg" crc="104872039" ref="semana-2">
-      <caption webpage="semana-2" alt=""/>
-    </file>
-    <file name="captura15.jpg" crc="3814899132" ref="semana-2">
-      <caption webpage="semana-2" alt=""/>
-    </file>
-    <file name="captura16.jpg" crc="221844465" ref="semana-2">
-      <caption webpage="semana-2" alt=""/>
-    </file>
-    <file name="captura17.jpg" crc="100998841" ref="semana-3">
+    <file name="captura 11.jpg" crc="455296580" ref="semana-3">
       <caption webpage="semana-3" alt=""/>
     </file>
-    <file name="u2811-6.png" crc="3918716091" ref="fabricación"/>
-    <file name="u2814-6.png" crc="523050176" ref="fabricación"/>
-    <file name="u1606-6.png" crc="4272014259" ref="fabricación"/>
-    <file name="u1612-6.png" crc="4220661551" ref="fabricación"/>
-    <file name="u1615-6.png" crc="384665173" ref="fabricación"/>
-    <file name="u1618-9.png" crc="3836952493" ref="fabricación"/>
-    <file name="u1621-6.png" crc="4170792809" ref="fabricación"/>
-    <file name="u2826-6.png" crc="365132656" ref="fabricación"/>
-    <file name="u1630-6.png" crc="181950128" ref="implementación"/>
-    <file name="u2832-6.png" crc="178527789" ref="implementación"/>
-    <file name="u1639-6.png" crc="23215132" ref="implementación"/>
-    <file name="u2838-6.png" crc="437516004" ref="implementación"/>
-    <file name="u2847-6.png" crc="3896615709" ref="implementación"/>
-    <file name="u2850-6.png" crc="3935656552" ref="implementación"/>
-    <file name="u2859-6.png" crc="534952337" ref="implementación"/>
-    <file name="u2862-6.png" crc="3993259419" ref="implementación"/>
-    <file name="u2868-4.png" crc="33171836" ref="comunicación"/>
-    <file name="u2880-6.png" crc="254894753" ref="comunicación"/>
-    <file name="u2883-6.png" crc="4109642514" ref="comunicación"/>
-    <file name="u2874-4.png" crc="4041786796" ref="comunicación"/>
-    <file name="u2892-6.png" crc="467245870" ref="comunicación"/>
-    <file name="u2895-6.png" crc="530782694" ref="comunicación"/>
+    <file name="captura 13.jpg" crc="4293116933" ref="semana-3">
+      <caption webpage="semana-3" alt=""/>
+    </file>
+    <file name="captura 12.jpg" crc="3888118030" ref="semana-3">
+      <caption webpage="semana-3" alt=""/>
+    </file>
+    <file name="u7727-32.png" crc="365443616" ref="semana-1"/>
+    <file name="u7741-32.png" crc="3795600035" ref="semana-1"/>
+    <file name="u7755-32.png" crc="531869505" ref="semana-1"/>
+    <file name="u7769-28.png" crc="98196572" ref="semana-1"/>
+    <file name="u7789-32.png" crc="4026738671" ref="semana-1"/>
   </folder>
-  <file name="index.html" crc="262581142" seo="true" mt="1568167646657" redirect="true"/>
-  <file name="aspectos-generales.html" crc="3960430351" seo="true" mt="1568170987051" redirect="true"/>
-  <file name="formulación.html" crc="299189637" seo="true" mt="1568834710074" redirect="true"/>
-  <file name="fabricación.html" crc="4254285399" seo="true" mt="1569769597732" redirect="true"/>
-  <file name="implementación.html" crc="3910275649" seo="true" mt="1569768969516" redirect="true"/>
-  <file name="comunicación.html" crc="3770273627" seo="true" mt="1569771285393" redirect="true"/>
-  <file name="semana-2.html" crc="172781" seo="true" mt="1569769043392" redirect="true"/>
-  <file name="semana-3.html" crc="4024905222" seo="true" mt="1569769134699" redirect="true"/>
-  <file name="semana-4.html" crc="272959998" seo="true" mt="1567952139390" redirect="false"/>
-  <file name="semana-5.html" crc="472869763" seo="true" mt="1567952146356" redirect="false"/>
-  <file name="semana-6.html" crc="143772932" seo="true" mt="1567952152951" redirect="false"/>
-  <file name="semana-7.html" crc="83603321" seo="true" mt="1567952183766" redirect="false"/>
-  <file name="semana-8.html" crc="4099776352" seo="true" mt="1567952193005" redirect="false"/>
-  <file name="semana-9.html" crc="4164418845" seo="true" mt="1567952197928" redirect="false"/>
-  <file name="semana-10.html" crc="4066366005" seo="true" mt="1567952206172" redirect="false"/>
-  <file name="semana-11.html" crc="3835433458" seo="true" mt="1567952219450" redirect="false"/>
-  <file name="semana-12.html" crc="78205946" seo="true" mt="1567952226832" redirect="false"/>
-  <file name="semana-13.html" crc="308973629" seo="true" mt="1567952232395" redirect="false"/>
-  <file name="semana-14.html" crc="531812779" seo="true" mt="1567952239194" redirect="false"/>
-  <file name="semana-15.html" crc="158405228" seo="true" mt="1569771225118" redirect="false"/>
-  <file name="semana-16.html" crc="3913568356" seo="true" mt="1569771241448" redirect="false"/>
+  <file name="index.html" crc="3767706492" seo="true" mt="1571428506711" redirect="true"/>
+  <file name="aspectos-generales.html" crc="293433626" seo="true" mt="1571532609111" redirect="true"/>
+  <file name="formulación.html" crc="4273671404" seo="true" mt="1571525370455" redirect="true"/>
+  <file name="fabricación.html" crc="4107975635" seo="true" mt="1571428977142" redirect="true"/>
+  <file name="implementación.html" crc="3791508753" seo="true" mt="1571429035655" redirect="true"/>
+  <file name="comunicación.html" crc="4186892061" seo="true" mt="1571429064657" redirect="true"/>
+  <file name="semana-4.html" crc="306373721" seo="true" mt="1571534303387" redirect="true"/>
+  <file name="semana-5.html" crc="77663254" seo="true" mt="1571534226962" redirect="true"/>
+  <file name="semana-6.html" crc="4239859272" seo="true" mt="1571534384453" redirect="true"/>
+  <file name="semana-7.html" crc="334682545" seo="true" mt="1571534176758" redirect="true"/>
+  <file name="semana-8.html" crc="70318953" seo="true" mt="1571341000026" redirect="true"/>
+  <file name="semana-9.html" crc="333500481" seo="true" mt="1571341019311" redirect="true"/>
+  <file name="semana-10.html" crc="3915369928" seo="true" mt="1571341040032" redirect="true"/>
+  <file name="semana-11.html" crc="274674706" seo="true" mt="1571341115380" redirect="true"/>
+  <file name="semana-12.html" crc="196147783" seo="true" mt="1571341138380" redirect="true"/>
+  <file name="semana-13.html" crc="323274396" seo="true" mt="1571341154931" redirect="true"/>
+  <file name="semana-14.html" crc="3894327869" seo="true" mt="1571341171442" redirect="true"/>
+  <file name="semana-15.html" crc="4067160999" seo="true" mt="1571341195272" redirect="true"/>
+  <file name="semana-16.html" crc="4058606829" seo="true" mt="1571341211087" redirect="true"/>
+  <file name="semana-2.html" crc="3938486490" seo="true" mt="1571533767702" redirect="true"/>
+  <file name="semana-3.html" crc="4023458599" seo="true" mt="1571533659020" redirect="true"/>
+  <file name="semana-1.html" crc="4226391265" seo="true" mt="1571533907676" redirect="true"/>
 </manifest>

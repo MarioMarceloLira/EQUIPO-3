@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://taller.com/index.html</loc>
-    <lastmod>2019-09-10</lastmod>
+    <lastmod>2019-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,121 +11,127 @@
   </url>
   <url>
     <loc>http://taller.com/aspectos-generales.html</loc>
-    <lastmod>2019-09-10</lastmod>
+    <lastmod>2019-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/formulaci%C3%B3n.html</loc>
-    <lastmod>2019-09-18</lastmod>
+    <lastmod>2019-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/fabricaci%C3%B3n.html</loc>
-    <lastmod>2019-09-29</lastmod>
+    <lastmod>2019-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/implementaci%C3%B3n.html</loc>
-    <lastmod>2019-09-29</lastmod>
+    <lastmod>2019-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/comunicaci%C3%B3n.html</loc>
-    <lastmod>2019-09-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://taller.com/semana-2.html</loc>
-    <lastmod>2019-09-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://taller.com/semana-3.html</loc>
-    <lastmod>2019-09-29</lastmod>
+    <lastmod>2019-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-4.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-5.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-6.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-7.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-8.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-9.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-10.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-11.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-12.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-13.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-14.html</loc>
-    <lastmod>2019-09-08</lastmod>
+    <lastmod>2019-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-15.html</loc>
-    <lastmod>2019-09-29</lastmod>
+    <lastmod>2019-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/semana-16.html</loc>
-    <lastmod>2019-09-29</lastmod>
+    <lastmod>2019-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/semana-2.html</loc>
+    <lastmod>2019-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/semana-3.html</loc>
+    <lastmod>2019-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/semana-1.html</loc>
+    <lastmod>2019-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
