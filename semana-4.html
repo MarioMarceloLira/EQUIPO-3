@@ -16,7 +16,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Semana 4</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/semana-4.css?crc=4033861948" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/semana-4.css?crc=4206555384" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -118,8 +118,8 @@ Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized');
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#buttonu8455').registerPositionScrollEffect([{"in":[-Infinity,-4.45],"speed":[0,0]},{"in":[-4.45,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#buttonu8461').registerPositionScrollEffect([{"in":[-Infinity,-54.45],"speed":[0,0]},{"in":[-54.45,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#buttonu8455').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,5.9]},{"speed":[0,0],"in":[5.9,Infinity]}]);/* scroll effect */
+$('#buttonu8461').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,5.9]},{"speed":[0,0],"in":[5.9,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

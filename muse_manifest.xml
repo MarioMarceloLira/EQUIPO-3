@@ -1,14 +1,17 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1571534404569">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1571589299356">
+  <folder name="assets">
+    <file name="entregable-i.docx" crc="4133924866" seo="true" mt="1570676983000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="semana-10.css" crc="3785854247" ref="semana-10"/>
-    <file name="semana-5.css" crc="3903025194" ref="semana-5"/>
+    <file name="semana-5.css" crc="4127201134" ref="semana-5"/>
     <file name="semana-15.css" crc="273207296" ref="semana-15"/>
     <file name="comunicaci_n.css" crc="4133063547" ref="comunicación"/>
     <file name="semana-9.css" crc="41687410" ref="semana-9"/>
     <file name="semana-14.css" crc="425252511" ref="semana-14"/>
     <file name="implementaci_n.css" crc="4021936813" ref="implementación"/>
-    <file name="aspectos-generales.css" crc="3936646244" ref="aspectos-generales"/>
+    <file name="aspectos-generales.css" crc="4270500067" ref="aspectos-generales"/>
     <file name="semana-8.css" crc="300290481" ref="semana-8"/>
     <file name="semana-16.css" crc="484301591" ref="semana-16"/>
     <file name="fabricaci_n.css" crc="477693730" ref="fabricación"/>
@@ -18,10 +21,10 @@
     <file name="semana-6.css" crc="309066883" ref="semana-6"/>
     <file name="semana-12.css" crc="3027583" ref="semana-12"/>
     <file name="formulaci_n.css" crc="4004773640" ref="formulación"/>
-    <file name="index.css" crc="27691626" ref="index"/>
+    <file name="index.css" crc="3777382218" ref="index"/>
     <file name="semana-11.css" crc="4211579084" ref="semana-11"/>
     <file name="semana-2.css" crc="513632026" ref="semana-2"/>
-    <file name="semana-4.css" crc="4033861948" ref="semana-4"/>
+    <file name="semana-4.css" crc="4206555384" ref="semana-4"/>
     <file name="semana-1.css" crc="510825706" ref="semana-1"/>
   </folder>
   <folder name="scripts">
@@ -34,7 +37,7 @@
     <file name="jquery.watch.js" crc="522499760" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
     <file name="require.js" crc="4177726516" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
-    <file name="jquery.scrolleffects.js" crc="312044820" ref="semana-4:semana-6:semana-2:semana-3:semana-1"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="semana-4:semana-6:semana-2:semana-3:semana-1:semana-5"/>
   </folder>
   <folder name="images">
     <file name="pucp.png" crc="491765213" ref="index">
@@ -165,14 +168,14 @@
     <file name="u7769-28.png" crc="98196572" ref="semana-1"/>
     <file name="u7789-32.png" crc="4026738671" ref="semana-1"/>
   </folder>
-  <file name="index.html" crc="3767706492" seo="true" mt="1571428506711" redirect="true"/>
-  <file name="aspectos-generales.html" crc="293433626" seo="true" mt="1571532609111" redirect="true"/>
+  <file name="index.html" crc="4016791549" seo="true" mt="1571589112131" redirect="true"/>
+  <file name="aspectos-generales.html" crc="3962840400" seo="true" mt="1571589087174" redirect="true"/>
   <file name="formulación.html" crc="4273671404" seo="true" mt="1571525370455" redirect="true"/>
   <file name="fabricación.html" crc="4107975635" seo="true" mt="1571428977142" redirect="true"/>
   <file name="implementación.html" crc="3791508753" seo="true" mt="1571429035655" redirect="true"/>
   <file name="comunicación.html" crc="4186892061" seo="true" mt="1571429064657" redirect="true"/>
-  <file name="semana-4.html" crc="306373721" seo="true" mt="1571534303387" redirect="true"/>
-  <file name="semana-5.html" crc="77663254" seo="true" mt="1571534226962" redirect="true"/>
+  <file name="semana-4.html" crc="148065410" seo="true" mt="1571589282860" redirect="true"/>
+  <file name="semana-5.html" crc="331221754" seo="true" mt="1571588781412" redirect="true"/>
   <file name="semana-6.html" crc="4239859272" seo="true" mt="1571534384453" redirect="true"/>
   <file name="semana-7.html" crc="334682545" seo="true" mt="1571534176758" redirect="true"/>
   <file name="semana-8.html" crc="70318953" seo="true" mt="1571341000026" redirect="true"/>
