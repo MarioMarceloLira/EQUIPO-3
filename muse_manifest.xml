@@ -1,43 +1,27 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1571589299356">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1573434908982">
   <folder name="assets">
     <file name="entregable-i.docx" crc="4133924866" seo="true" mt="1570676983000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="semana-10.css" crc="3785854247" ref="semana-10"/>
-    <file name="semana-5.css" crc="4127201134" ref="semana-5"/>
-    <file name="semana-15.css" crc="273207296" ref="semana-15"/>
-    <file name="comunicaci_n.css" crc="4133063547" ref="comunicación"/>
-    <file name="semana-9.css" crc="41687410" ref="semana-9"/>
-    <file name="semana-14.css" crc="425252511" ref="semana-14"/>
-    <file name="implementaci_n.css" crc="4021936813" ref="implementación"/>
-    <file name="aspectos-generales.css" crc="4270500067" ref="aspectos-generales"/>
-    <file name="semana-8.css" crc="300290481" ref="semana-8"/>
-    <file name="semana-16.css" crc="484301591" ref="semana-16"/>
-    <file name="fabricaci_n.css" crc="477693730" ref="fabricación"/>
-    <file name="semana-7.css" crc="216460263" ref="semana-7"/>
-    <file name="semana-3.css" crc="152666095" ref="semana-3"/>
-    <file name="semana-13.css" crc="3914356898" ref="semana-13"/>
-    <file name="semana-6.css" crc="309066883" ref="semana-6"/>
-    <file name="semana-12.css" crc="3027583" ref="semana-12"/>
-    <file name="formulaci_n.css" crc="4004773640" ref="formulación"/>
-    <file name="index.css" crc="3777382218" ref="index"/>
-    <file name="semana-11.css" crc="4211579084" ref="semana-11"/>
-    <file name="semana-2.css" crc="513632026" ref="semana-2"/>
-    <file name="semana-4.css" crc="4206555384" ref="semana-4"/>
-    <file name="semana-1.css" crc="510825706" ref="semana-1"/>
+    <file name="index.css" crc="3853665420" ref="index"/>
+    <file name="normativas.css" crc="499288582" ref="normativas"/>
+    <file name="estudio-de-mercado.css" crc="3981605675" ref="estudio-de-mercado"/>
+    <file name="equipo.css" crc="4001845006" ref="equipo"/>
+    <file name="especificaciones-tecnicas.css" crc="274817674" ref="especificaciones-tecnicas"/>
+    <file name="presentacion-del-prototipo.css" crc="4217674126" ref="presentacion-del-prototipo"/>
+    <file name="evaluacion-economica.css" crc="204500582" ref="evaluacion-economica"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
-    <file name="museutils.js" crc="3939489907" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
-    <file name="whatinput.js" crc="86476730" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
-    <file name="museconfig.js" crc="128606099" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:aspectos-generales:formulación:semana-1"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
-    <file name="require.js" crc="4177726516" ref="index:aspectos-generales:formulación:fabricación:implementación:comunicación:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14:semana-15:semana-16:semana-2:semana-3:semana-1"/>
-    <file name="jquery.scrolleffects.js" crc="312044820" ref="semana-4:semana-6:semana-2:semana-3:semana-1:semana-5"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:estudio-de-mercado:presentacion-del-prototipo:evaluacion-economica:especificaciones-tecnicas:normativas:equipo"/>
+    <file name="museutils.js" crc="3939489907" ref="index:estudio-de-mercado:presentacion-del-prototipo:evaluacion-economica:especificaciones-tecnicas:normativas:equipo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:estudio-de-mercado:presentacion-del-prototipo:evaluacion-economica:especificaciones-tecnicas:normativas:equipo"/>
+    <file name="museconfig.js" crc="128606099" ref="index:estudio-de-mercado:presentacion-del-prototipo:evaluacion-economica:especificaciones-tecnicas:normativas:equipo"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:equipo"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:estudio-de-mercado:presentacion-del-prototipo:evaluacion-economica:especificaciones-tecnicas:normativas:equipo"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:estudio-de-mercado:presentacion-del-prototipo:evaluacion-economica:especificaciones-tecnicas:normativas:equipo"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:estudio-de-mercado:presentacion-del-prototipo:evaluacion-economica:especificaciones-tecnicas:normativas:equipo"/>
+    <file name="require.js" crc="4177726516" ref="index:estudio-de-mercado:presentacion-del-prototipo:evaluacion-economica:especificaciones-tecnicas:normativas:equipo"/>
   </folder>
   <folder name="images">
     <file name="pucp.png" crc="491765213" ref="index">
@@ -52,142 +36,156 @@
     </file>
     <file name="clinica-anglo-u1725-fr.png" crc="4294622064" ref="index"/>
     <file name="u1988-6.png" crc="152875818" ref="index"/>
-    <file name="img_20190909_151828.jpg" crc="3807522934" ref="semana-1">
+    <file name="img_20190909_151828.jpg" crc="3807522934" ref="equipo">
       <caption webpage="index" alt=""/>
       <caption webpage="semana-1" alt=""/>
+      <caption webpage="equipo" alt=""/>
     </file>
-    <file name="img_20190909_124513.jpg" crc="4213692143" ref="semana-1">
+    <file name="img_20190909_124513.jpg" crc="4213692143" ref="equipo">
       <caption webpage="index" alt=""/>
       <caption webpage="semana-1" alt=""/>
+      <caption webpage="equipo" alt=""/>
     </file>
-    <file name="img_20190909_151726.jpg" crc="385097085" ref="semana-1">
+    <file name="img_20190909_151726.jpg" crc="385097085" ref="equipo">
       <caption webpage="index" alt=""/>
       <caption webpage="semana-1" alt=""/>
+      <caption webpage="equipo" alt=""/>
     </file>
-    <file name="img_20190909_160354.jpg" crc="452963626" ref="semana-1">
+    <file name="img_20190909_160354.jpg" crc="452963626" ref="equipo">
       <caption webpage="index" alt=""/>
       <caption webpage="semana-1" alt=""/>
+      <caption webpage="equipo" alt=""/>
     </file>
-    <file name="img_20190909_124647.jpg" crc="4151025968" ref="semana-1">
+    <file name="img_20190909_124647.jpg" crc="4151025968" ref="equipo">
       <caption webpage="index" alt=""/>
       <caption webpage="semana-1" alt=""/>
+      <caption webpage="equipo" alt=""/>
     </file>
-    <file name="img_20190909_124610.jpg" crc="4280063999" ref="semana-1">
+    <file name="img_20190909_124610.jpg" crc="4280063999" ref="equipo">
       <caption webpage="index" alt=""/>
       <caption webpage="semana-1" alt=""/>
+      <caption webpage="equipo" alt=""/>
     </file>
-    <file name="equipo.jpg" crc="3999434683" ref="aspectos-generales">
-      <caption webpage="aspectos-generales" alt=""/>
-    </file>
-    <file name="captura 2-u7548-fr.jpg" crc="3933824341" ref="aspectos-generales"/>
-    <file name="captura 13-u7545-fr.jpg" crc="3971675824" ref="aspectos-generales"/>
-    <file name="captura 14-u7530-fr.jpg" crc="3851361656" ref="formulación"/>
-    <file name="captura 22-u7536-fr.jpg" crc="264354576" ref="formulación"/>
-    <file name="captura 26-u7533-fr.jpg" crc="49205283" ref="formulación"/>
-    <file name="captura 14.jpg" crc="3822933798" ref="semana-4">
+    <file name="captura 14.jpg" crc="3822933798" ref="estudio-de-mercado">
+      <caption webpage="estudio-de-mercado" alt=""/>
       <caption webpage="semana-4" alt=""/>
     </file>
-    <file name="captura 15.jpg" crc="3954068945" ref="semana-4">
+    <file name="captura 15.jpg" crc="3954068945" ref="estudio-de-mercado">
+      <caption webpage="estudio-de-mercado" alt=""/>
       <caption webpage="semana-4" alt=""/>
     </file>
-    <file name="captura 16.jpg" crc="4052971726" ref="semana-4">
+    <file name="captura 16.jpg" crc="4052971726" ref="estudio-de-mercado">
+      <caption webpage="estudio-de-mercado" alt=""/>
       <caption webpage="semana-4" alt=""/>
     </file>
-    <file name="captura 25.jpg" crc="3870070519" ref="semana-4">
+    <file name="captura 25.jpg" crc="3870070519" ref="presentacion-del-prototipo">
       <caption webpage="semana-4" alt=""/>
+      <caption webpage="presentacion-del-prototipo" alt=""/>
     </file>
-    <file name="captura 17.jpg" crc="33781194" ref="semana-5">
+    <file name="captura 17.jpg" crc="33781194" ref="presentacion-del-prototipo">
+      <caption webpage="presentacion-del-prototipo" alt=""/>
       <caption webpage="semana-5" alt=""/>
     </file>
-    <file name="captura 18.jpg" crc="34694469" ref="semana-5">
+    <file name="captura 18.jpg" crc="34694469" ref="presentacion-del-prototipo">
+      <caption webpage="presentacion-del-prototipo" alt=""/>
       <caption webpage="semana-5" alt=""/>
     </file>
-    <file name="captura 19.jpg" crc="4216660663" ref="semana-5">
+    <file name="captura 19.jpg" crc="4216660663" ref="presentacion-del-prototipo">
+      <caption webpage="presentacion-del-prototipo" alt=""/>
       <caption webpage="semana-5" alt=""/>
     </file>
-    <file name="captura 20.jpg" crc="4111498603" ref="semana-5">
+    <file name="captura 20.jpg" crc="4111498603" ref="presentacion-del-prototipo">
+      <caption webpage="presentacion-del-prototipo" alt=""/>
       <caption webpage="semana-5" alt=""/>
     </file>
-    <file name="captura 21.jpg" crc="3926229377" ref="semana-5">
+    <file name="captura 21.jpg" crc="3926229377" ref="presentacion-del-prototipo">
+      <caption webpage="presentacion-del-prototipo" alt=""/>
       <caption webpage="semana-5" alt=""/>
     </file>
-    <file name="captura 22.jpg" crc="412979288" ref="semana-5">
+    <file name="captura 22.jpg" crc="412979288" ref="presentacion-del-prototipo">
+      <caption webpage="presentacion-del-prototipo" alt=""/>
       <caption webpage="semana-5" alt=""/>
     </file>
-    <file name="captura 23.jpg" crc="407317023" ref="semana-5">
+    <file name="captura 23.jpg" crc="407317023" ref="presentacion-del-prototipo">
+      <caption webpage="presentacion-del-prototipo" alt=""/>
       <caption webpage="semana-5" alt=""/>
     </file>
-    <file name="captura 24.jpg" crc="499422182" ref="semana-5">
+    <file name="captura 24.jpg" crc="499422182" ref="presentacion-del-prototipo">
+      <caption webpage="presentacion-del-prototipo" alt=""/>
       <caption webpage="semana-5" alt=""/>
     </file>
-    <file name="captura 26.jpg" crc="489336975" ref="semana-6">
+    <file name="captura 26.jpg" crc="489336975" ref="presentacion-del-prototipo">
       <caption webpage="semana-6" alt=""/>
+      <caption webpage="presentacion-del-prototipo" alt=""/>
     </file>
-    <file name="captura 1.jpg" crc="4071013069" ref="semana-2">
+    <file name="captura 1.jpg" crc="4071013069" ref="especificaciones-tecnicas">
+      <caption webpage="especificaciones-tecnicas" alt=""/>
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura 2.jpg" crc="4207063285" ref="semana-2">
+    <file name="captura 2.jpg" crc="4207063285" ref="especificaciones-tecnicas">
+      <caption webpage="especificaciones-tecnicas" alt=""/>
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura 3.jpg" crc="3877952702" ref="semana-2">
+    <file name="captura 3.jpg" crc="3877952702" ref="especificaciones-tecnicas">
+      <caption webpage="especificaciones-tecnicas" alt=""/>
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura 5.jpg" crc="3814851068" ref="semana-2">
+    <file name="captura 5.jpg" crc="3814851068" ref="especificaciones-tecnicas">
+      <caption webpage="especificaciones-tecnicas" alt=""/>
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura 6.jpg" crc="3880083904" ref="semana-2">
+    <file name="captura 6.jpg" crc="3880083904" ref="especificaciones-tecnicas">
+      <caption webpage="especificaciones-tecnicas" alt=""/>
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura 61.jpg" crc="261921706" ref="semana-2">
+    <file name="captura 61.jpg" crc="261921706" ref="especificaciones-tecnicas">
+      <caption webpage="especificaciones-tecnicas" alt=""/>
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura 7.jpg" crc="203439400" ref="semana-2">
+    <file name="captura 7.jpg" crc="203439400" ref="especificaciones-tecnicas">
+      <caption webpage="especificaciones-tecnicas" alt=""/>
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura 8.jpg" crc="49957215" ref="semana-2">
+    <file name="captura 8.jpg" crc="49957215" ref="especificaciones-tecnicas">
+      <caption webpage="especificaciones-tecnicas" alt=""/>
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura 9.jpg" crc="4108937597" ref="semana-2">
+    <file name="captura 9.jpg" crc="4108937597" ref="especificaciones-tecnicas">
+      <caption webpage="especificaciones-tecnicas" alt=""/>
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura 10.jpg" crc="3928819590" ref="semana-2">
+    <file name="captura 10.jpg" crc="3928819590" ref="especificaciones-tecnicas">
+      <caption webpage="especificaciones-tecnicas" alt=""/>
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="captura 11.jpg" crc="455296580" ref="semana-3">
+    <file name="captura 11.jpg" crc="455296580" ref="normativas">
       <caption webpage="semana-3" alt=""/>
+      <caption webpage="normativas" alt=""/>
     </file>
-    <file name="captura 13.jpg" crc="4293116933" ref="semana-3">
+    <file name="captura 13.jpg" crc="4293116933" ref="normativas">
       <caption webpage="semana-3" alt=""/>
+      <caption webpage="normativas" alt=""/>
     </file>
-    <file name="captura 12.jpg" crc="3888118030" ref="semana-3">
+    <file name="captura 12.jpg" crc="3888118030" ref="normativas">
       <caption webpage="semana-3" alt=""/>
+      <caption webpage="normativas" alt=""/>
     </file>
-    <file name="u7727-32.png" crc="365443616" ref="semana-1"/>
-    <file name="u7741-32.png" crc="3795600035" ref="semana-1"/>
-    <file name="u7755-32.png" crc="531869505" ref="semana-1"/>
-    <file name="u7769-28.png" crc="98196572" ref="semana-1"/>
-    <file name="u7789-32.png" crc="4026738671" ref="semana-1"/>
+    <file name="u7727-32.png" crc="365443616" ref="equipo"/>
+    <file name="u7741-32.png" crc="3795600035" ref="equipo"/>
+    <file name="u7755-32.png" crc="531869505" ref="equipo"/>
+    <file name="u7769-28.png" crc="98196572" ref="equipo"/>
+    <file name="u7789-32.png" crc="4026738671" ref="equipo"/>
+    <file name="captura 11-u15236-fr.jpg" crc="234199864" ref="index"/>
+    <file name="captura 2-u15233-fr.jpg" crc="4141306482" ref="index"/>
+    <file name="captura 14-u15239-fr.jpg" crc="4294242059" ref="index"/>
+    <file name="captura 25-u15245-fr.jpg" crc="4225454307" ref="index"/>
+    <file name="captura 22-u15242-fr.jpg" crc="4239588142" ref="index"/>
   </folder>
-  <file name="index.html" crc="4016791549" seo="true" mt="1571589112131" redirect="true"/>
-  <file name="aspectos-generales.html" crc="3962840400" seo="true" mt="1571589087174" redirect="true"/>
-  <file name="formulación.html" crc="4273671404" seo="true" mt="1571525370455" redirect="true"/>
-  <file name="fabricación.html" crc="4107975635" seo="true" mt="1571428977142" redirect="true"/>
-  <file name="implementación.html" crc="3791508753" seo="true" mt="1571429035655" redirect="true"/>
-  <file name="comunicación.html" crc="4186892061" seo="true" mt="1571429064657" redirect="true"/>
-  <file name="semana-4.html" crc="148065410" seo="true" mt="1571589282860" redirect="true"/>
-  <file name="semana-5.html" crc="331221754" seo="true" mt="1571588781412" redirect="true"/>
-  <file name="semana-6.html" crc="4239859272" seo="true" mt="1571534384453" redirect="true"/>
-  <file name="semana-7.html" crc="334682545" seo="true" mt="1571534176758" redirect="true"/>
-  <file name="semana-8.html" crc="70318953" seo="true" mt="1571341000026" redirect="true"/>
-  <file name="semana-9.html" crc="333500481" seo="true" mt="1571341019311" redirect="true"/>
-  <file name="semana-10.html" crc="3915369928" seo="true" mt="1571341040032" redirect="true"/>
-  <file name="semana-11.html" crc="274674706" seo="true" mt="1571341115380" redirect="true"/>
-  <file name="semana-12.html" crc="196147783" seo="true" mt="1571341138380" redirect="true"/>
-  <file name="semana-13.html" crc="323274396" seo="true" mt="1571341154931" redirect="true"/>
-  <file name="semana-14.html" crc="3894327869" seo="true" mt="1571341171442" redirect="true"/>
-  <file name="semana-15.html" crc="4067160999" seo="true" mt="1571341195272" redirect="true"/>
-  <file name="semana-16.html" crc="4058606829" seo="true" mt="1571341211087" redirect="true"/>
-  <file name="semana-2.html" crc="3938486490" seo="true" mt="1571533767702" redirect="true"/>
-  <file name="semana-3.html" crc="4023458599" seo="true" mt="1571533659020" redirect="true"/>
-  <file name="semana-1.html" crc="4226391265" seo="true" mt="1571533907676" redirect="true"/>
+  <file name="index.html" crc="281995946" seo="true" mt="1573434192312" redirect="true"/>
+  <file name="estudio-de-mercado.html" crc="4166589711" seo="true" mt="1573434895871" redirect="true"/>
+  <file name="presentacion-del-prototipo.html" crc="520256885" seo="true" mt="1573434810895" redirect="true"/>
+  <file name="evaluacion-economica.html" crc="300791305" seo="true" mt="1573434829098" redirect="true"/>
+  <file name="especificaciones-tecnicas.html" crc="3773257925" seo="true" mt="1573434743433" redirect="true"/>
+  <file name="normativas.html" crc="38029112" seo="true" mt="1573434772670" redirect="true"/>
+  <file name="equipo.html" crc="218384842" seo="true" mt="1573434839263" redirect="true"/>
 </manifest>
