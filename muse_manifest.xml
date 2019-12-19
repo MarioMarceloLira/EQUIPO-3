@@ -1,13 +1,15 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1573434908982">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taller.com" resolutions="1x" timestamp="1576729563526">
   <folder name="assets">
     <file name="entregable-i.docx" crc="4133924866" seo="true" mt="1570676983000"/>
+    <file name="entregable-iii,-exposicion-final-de-las-finales.docx" crc="3941534548" seo="true" mt="1576460989000"/>
+    <file name="entregable-iii-_grupo-iii.docx" crc="400243413" seo="true" mt="1576729285000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3853665420" ref="index"/>
+    <file name="index.css" crc="3893536706" ref="index"/>
     <file name="normativas.css" crc="499288582" ref="normativas"/>
     <file name="estudio-de-mercado.css" crc="3981605675" ref="estudio-de-mercado"/>
-    <file name="equipo.css" crc="4001845006" ref="equipo"/>
+    <file name="equipo.css" crc="4226711298" ref="equipo"/>
     <file name="especificaciones-tecnicas.css" crc="274817674" ref="especificaciones-tecnicas"/>
     <file name="presentacion-del-prototipo.css" crc="4217674126" ref="presentacion-del-prototipo"/>
     <file name="evaluacion-economica.css" crc="204500582" ref="evaluacion-economica"/>
@@ -171,21 +173,21 @@
       <caption webpage="normativas" alt=""/>
     </file>
     <file name="u7727-32.png" crc="365443616" ref="equipo"/>
-    <file name="u7741-32.png" crc="3795600035" ref="equipo"/>
-    <file name="u7755-32.png" crc="531869505" ref="equipo"/>
-    <file name="u7769-28.png" crc="98196572" ref="equipo"/>
-    <file name="u7789-32.png" crc="4026738671" ref="equipo"/>
     <file name="captura 11-u15236-fr.jpg" crc="234199864" ref="index"/>
     <file name="captura 2-u15233-fr.jpg" crc="4141306482" ref="index"/>
     <file name="captura 14-u15239-fr.jpg" crc="4294242059" ref="index"/>
     <file name="captura 25-u15245-fr.jpg" crc="4225454307" ref="index"/>
     <file name="captura 22-u15242-fr.jpg" crc="4239588142" ref="index"/>
+    <file name="u7741-22.png" crc="4069595017" ref="equipo"/>
+    <file name="u7755-22.png" crc="4005618104" ref="equipo"/>
+    <file name="u7769-18.png" crc="4197935686" ref="equipo"/>
+    <file name="u7789-22.png" crc="378519622" ref="equipo"/>
   </folder>
-  <file name="index.html" crc="281995946" seo="true" mt="1573434192312" redirect="true"/>
+  <file name="index.html" crc="411752919" seo="true" mt="1576729530493" redirect="true"/>
   <file name="estudio-de-mercado.html" crc="4166589711" seo="true" mt="1573434895871" redirect="true"/>
   <file name="presentacion-del-prototipo.html" crc="520256885" seo="true" mt="1573434810895" redirect="true"/>
   <file name="evaluacion-economica.html" crc="300791305" seo="true" mt="1573434829098" redirect="true"/>
   <file name="especificaciones-tecnicas.html" crc="3773257925" seo="true" mt="1573434743433" redirect="true"/>
   <file name="normativas.html" crc="38029112" seo="true" mt="1573434772670" redirect="true"/>
-  <file name="equipo.html" crc="218384842" seo="true" mt="1573434839263" redirect="true"/>
+  <file name="equipo.html" crc="283388919" seo="true" mt="1576729402665" redirect="true"/>
 </manifest>

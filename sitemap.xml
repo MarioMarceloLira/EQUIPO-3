@@ -2,24 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://taller.com/index.html</loc>
-    <lastmod>2019-11-10</lastmod>
+    <lastmod>2019-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://taller.com/images/edificio-dr-fleck.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://taller.com/evaluacion-economica.html</loc>
-    <lastmod>2019-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://taller.com/estudio-de-mercado.html</loc>
-    <lastmod>2019-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/presentacion-del-prototipo.html</loc>
@@ -28,7 +16,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://taller.com/evaluacion-economica.html</loc>
+    <lastmod>2019-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://taller.com/normativas.html</loc>
+    <lastmod>2019-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/estudio-de-mercado.html</loc>
     <lastmod>2019-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -41,13 +41,25 @@
   </url>
   <url>
     <loc>http://taller.com/equipo.html</loc>
-    <lastmod>2019-11-10</lastmod>
+    <lastmod>2019-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://taller.com/assets/entregable-i.docx</loc>
     <lastmod>2019-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/assets/entregable-iii,-exposicion-final-de-las-finales.docx</loc>
+    <lastmod>2019-12-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taller.com/assets/entregable-iii-_grupo-iii.docx</loc>
+    <lastmod>2019-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
